@@ -1,4 +1,4 @@
-This is a mini listing page in order to get familiar with TypeScript.
+This is a mini listing page project in order to get familiar with TypeScript. 
 
 
 Setup steps
